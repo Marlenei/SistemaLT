@@ -1,0 +1,6 @@
+C:\Users\Minsaurralde\source\repos\TonerHP\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Minsaurralde\source\repos\TonerHP\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Minsaurralde\source\repos\TonerHP\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Minsaurralde\source\repos\TonerHP\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Minsaurralde\source\repos\TonerHP\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Minsaurralde\source\repos\TonerHP\CapaEntidad\obj\Debug\CapaEntidad.pdb

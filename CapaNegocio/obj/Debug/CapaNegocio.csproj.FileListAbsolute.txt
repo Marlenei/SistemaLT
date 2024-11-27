@@ -1,0 +1,11 @@
+C:\Users\Minsaurralde\source\repos\TonerHP\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Minsaurralde\source\repos\TonerHP\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Minsaurralde\source\repos\TonerHP\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Minsaurralde\source\repos\TonerHP\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Minsaurralde\source\repos\TonerHP\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Minsaurralde\source\repos\TonerHP\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\Minsaurralde\source\repos\TonerHP\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Minsaurralde\source\repos\TonerHP\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\Minsaurralde\source\repos\TonerHP\CapaNegocio\obj\Debug\CapaNego.81B9D119.Up2Date
+C:\Users\Minsaurralde\source\repos\TonerHP\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Minsaurralde\source\repos\TonerHP\CapaNegocio\obj\Debug\CapaNegocio.pdb
